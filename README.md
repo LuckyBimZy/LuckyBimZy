@@ -27,9 +27,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/tkes312w5ub1wjr1296of5kp4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tkes312w5ub1wjr1296of5kp4&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuckyBimZy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LuckyBimZy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckyBimZy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
